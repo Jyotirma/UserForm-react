@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/UserForm-react/static/css/main.717ccca4.css",
+    "main.js": "/UserForm-react/static/js/main.c878287f.js",
+    "static/js/787.4a8f4f28.chunk.js": "/UserForm-react/static/js/787.4a8f4f28.chunk.js",
+    "index.html": "/UserForm-react/index.html",
+    "main.717ccca4.css.map": "/UserForm-react/static/css/main.717ccca4.css.map",
+    "main.c878287f.js.map": "/UserForm-react/static/js/main.c878287f.js.map",
+    "787.4a8f4f28.chunk.js.map": "/UserForm-react/static/js/787.4a8f4f28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.717ccca4.css",
+    "static/js/main.c878287f.js"
+  ]
+}
